@@ -1,4 +1,3 @@
 # myFirstResp
-My first repositary in GIT
 
-# Sub brance readme edit
+# Sub brance readme edit Addes
